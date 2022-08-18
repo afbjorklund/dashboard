@@ -125,7 +125,7 @@
     "@typescript-eslint/eslint-plugin": "5.22.0",
     "@typescript-eslint/parser": "5.22.0",
     "codelyzer": "6.0.2",
-    "concurrently": "7.1.0",
+    "concurrently": "7.3.0",
     "cypress": "9.3.1",
     "cypress-fail-fast": "3.4.1",
     "del": "6.0.0",
